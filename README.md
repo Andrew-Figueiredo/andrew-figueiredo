@@ -1,7 +1,12 @@
 # Hi, I'm Andrew Figueiredo
 
-- 👨‍💻 i'm currently working in on QA Analyst
-- 🌱 i'm currently learning Data Science and Tests Automaization(Cypress, Selenium)
+🧑🏻Sou Andrew Figueiredo, um Cientista de Dados apaixonado pela interseção entre dados, tecnologia e inovação. Formado em Cientista de Dados pela UNIPÊ e atualmente cursando Matemática Computacional na UFPB, aos 25 anos, trago uma energia contagiante para desafios complexos.
+
+💼Ao longo da minha carreira, adquiri uma sólida experiência em Automação de Tarefas e destaco-me como um habilidoso analista de dados. Com mais de 3 anos de expertise na área de Qualidade de Software, assumi a liderança de uma equipe, aprimorando minhas habilidades de gestão e orientação.
+
+👨🏻‍🎓Minha jornada acadêmica reflete meu comprometimento com o aprendizado contínuo, alimentando minha paixão por explorar novos horizontes na Matemática Computacional. Estou sempre em busca de desafios que expandam meus conhecimentos e contribuam para o crescimento profissional.
+
+⚒️Minhas habilidades técnicas são complementadas por uma abordagem proativa e orientada para resultados, qualidades que me permitem enfrentar projetos complexos com confiança e eficiência. Estou entusiasmado para aplicar meu conhecimento em Ciência de Dados e liderança de equipe para impulsionar o sucesso em futuras empreitadas profissionais.
 
 <div align="center">
   <a href="https://github.com/andrew-figueiredo">
